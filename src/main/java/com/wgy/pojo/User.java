@@ -6,5 +6,4 @@ public class User {
     String pwd;
     String addr;
     String addr1;
-    String addr2;
 }
