@@ -4,6 +4,5 @@ public class User {
     int id;
     String name;
     String pwd;
-    String addr;
-    String addr3;
+    String add1;
 }
